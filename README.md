@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rajesh Rohan</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Subham Verma</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **Bookmyshow Clone**
+- 🔭 I’m currently working on **Ecommerce Project**
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **React, Node js**
+- 💬 Ask me about **React, Node js, javascript**
 
 - 📫 How to reach me **subhamverma2407@gmail.com**
 
